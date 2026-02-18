@@ -1,0 +1,5 @@
+# gitignore
+
+# prefix with "hidden" some files I want to ignore (e.g. internal to-dos, unfinished projects list)
+hidden*
+
